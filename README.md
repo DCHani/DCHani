@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌲 Hi, I'm Hani Azzeddine
+
+Full-Stack Web Developer & Machine Learning Engineer  
+I build scalable web systems and intelligent applications.
+
+🧠 What I work with
+- Frontend: React, Next.js
+- Backend: Node.js, Django
+- Databases: PostgreSQL, MongoDB
+- ML: PyTorch, Computer Vision
+- Mobile: Flutter
+
+🚀 Featured Projects
+- AI Traffic Management System (YOLO)
+- Trading Analytics Dashboard
+- Full-Stack Auth Platform
+
+📫 Reach me
+- Portfolio: yoursite.com
+- LinkedIn
+- Email
