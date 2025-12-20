@@ -42,6 +42,14 @@ I build scalable web applications and intelligent systems, combining strong back
 - Flutter
 
 ---
+## 🧠 Used Technologies
+
+- **React**
+- **Next.js**
+- **Tailwind CSS**
+- **Flutter**
+- **Python**
+
 <!--
 ## 🚀 Featured Projects
 
