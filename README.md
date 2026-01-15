@@ -71,7 +71,7 @@ Hands-on projects exploring machine learning models, datasets, and optimization 
 
 ## 📫 Connect With Me
 
-- 🌐 **Portfolio:** https://portfolio-plum-eight-94.vercel.app  
+- 🌐 **Portfolio:** https://www.hanibenchalel.dev
 - 💼 **LinkedIn:** [Azzeddine Hani Benchalel](https://www.linkedin.com/in/azzeddine-hani-benchalel-2a2a45317/)
 - 📧 **Email:** [azzeddinehanibenchalel@gmail.com](mailto:azzeddinehanibenchalel@gmail.com)
 
